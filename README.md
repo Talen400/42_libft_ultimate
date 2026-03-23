@@ -1,7 +1,3 @@
-Of course! Here's the full `README.md` translated into **English**, keeping the structure and style consistent with the original:
-
----
-
 # 📚 Libft Ultimate
 
 A custom C library that combines three essential projects from the 42 curriculum: **Libft**, **Printf**, and **Get Next Line** — all in one place for easier development and code reuse.
